@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-As a Web Content Manager and Product Designer with over a decade of experience, I’m passionate about creating digital experiences that are engaging and accessible to everyone. My two main design focuses are accessibility and democracy. I develop products that are pleasing, equitable, and easy to use.
+With over 10 years of experience, I'm a skilled Web Content Manager and Accessibility Designer dedicated to crafting inclusive digital experiences. I focus on creating accessible, democratic products that are visually appealing and user-friendly.
 
 Throughout my career, I’ve designed products, managed CMS, LMS, and eCommerce platforms, boosted SEO, and optimized content; I’ve consistently improved customer engagement and streamlined processes.
 
