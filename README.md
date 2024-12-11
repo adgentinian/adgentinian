@@ -5,6 +5,7 @@
 With over 10 years of experience, I'm a skilled Web Content Manager and Accessibility Designer dedicated to crafting inclusive digital experiences. I focus on creating accessible, democratic products that are visually appealing and user-friendly.
 
 Throughout my career, I’ve designed products, managed CMS, LMS, and eCommerce platforms, boosted SEO, and optimized content; I’ve consistently improved customer engagement and streamlined processes.
+Currently, I am expanding my skillset by learning AI and machine learning to further enhance accessibility processes and mitigate bias in AI applications.
 
 Volunteer Work & Recognition:
 <ul>
