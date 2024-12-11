@@ -9,7 +9,6 @@ Throughout my career, I’ve designed products, managed CMS, LMS, and eCommerce 
 Volunteer Work & Recognition:
 <ul>
   <li>Accessibility Tech Maker at Neil Squire (Makers Making Change)</li>
-  <li>Accessibility Tech Maker at Neil Squire (Makers Making Change)</li>
   <li>Accessibility Resource Development Assistant at CNIB</li>
   <li>Awarded the Peter Dickinson Award for creativity and out-of-the-box thinking</li>
   <li>Assistant to a Creative Copywriting Professor at Interamerican Open University</li>
